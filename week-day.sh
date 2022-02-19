@@ -10,6 +10,8 @@ case  $random_num in
 		;;
 	case  3) echo "Wednesday"
 		;;
+	case 4) echo "Thurs day"
+		;;
 	      *) echo "Invalid week " 
 
 
